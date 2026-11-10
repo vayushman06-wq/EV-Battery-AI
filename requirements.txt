@@ -1,5 +1,6 @@
-fastapi
-uvicorn[standard]
-joblib
-numpy
-scikit-learn
+fastapi==0.141.1
+uvicorn==0.54.0
+numpy==2.4.6
+scipy==1.16.3
+scikit-learn==1.6.1
+joblib==1.6.0
